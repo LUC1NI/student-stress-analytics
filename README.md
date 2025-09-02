@@ -99,8 +99,8 @@ Visualizations include:
 ## Author
 
 - **Your Name**  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- GitHub: [Your GitHub](https://github.com/YourUsername)  
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-lucini-613900234/
+- GitHub: https://github.com/LUC1NI 
 
 ---
 
